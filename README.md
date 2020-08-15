@@ -10,6 +10,9 @@
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][CV_website]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
+---
+[![Godeta's github stats](https://github-readme-stats.vercel.app/api?username=Godeta)](https://github.com/Godeta/github-readme-stats)
+
 [CV_website]: https://eportfolio.unicaen.fr/mahara/htdocs/user/arnaud-godet/presentation-v-0
 [linkedin]: https://www.linkedin.com/in/arnaud-godet-b633021a6/
 [Gobblet-Gobblers]: https://github.com/Godeta/Gobblet-Gobblers-Java
