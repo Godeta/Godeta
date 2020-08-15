@@ -11,7 +11,7 @@
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 ---
-[![Godeta's github stats](https://github-readme-stats.vercel.app/api?username=Godeta)](https://github.com/Godeta/github-readme-stats)
+[![Godeta's github stats](https://github-readme-stats.vercel.app/api?username=Godeta&show_icons=true&theme=dracula)](https://github.com/Godeta/github-readme-stats)
 
 [CV_website]: https://eportfolio.unicaen.fr/mahara/htdocs/user/arnaud-godet/presentation-v-0
 [linkedin]: https://www.linkedin.com/in/arnaud-godet-b633021a6/
