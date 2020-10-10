@@ -4,6 +4,8 @@
 - Working with OOP using Java : [petit jeu][Gobblet-Gobblers] 
 - Web developpement, [front-end there][front] and [back-end here][back]
 - Some AI : [flappyBird ][flappy]
+- Networking : [Online Multiplayer Agario ][agario]
+- Web scraping : [Geneanet Scraper project ][geneanet]
 
 ### Connect with me
 
@@ -20,3 +22,5 @@
 [front]: https://github.com/Godeta/WellDesignedWebsites
 [back]: https://github.com/Godeta/NodeJS_WeatherLocation
 [flappy]: https://github.com/Godeta/FlappyBird-JS
+[agario]: https://github.com/Godeta/Agario_JS_multi
+[geneanet]: not available yet
