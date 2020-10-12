@@ -1,7 +1,7 @@
 ### Hello and welcome to my profile ! I am Arnaud aka [Godeta][CV_website]
 
 ## I am a computer science student
-- Working with OOP using Java : [petit jeu][Gobblet-Gobblers] 
+- Working with OOP using Java : [petit jeu morpion dans le CMD][Gobblet-Gobblers] and [test animation jeu swing][javaFirstAnimation] 
 - Web developpement, [front-end there][front] and [back-end here][back]
 - Some AI : [flappyBird ][flappy]
 - Networking : [Online Multiplayer Agario ][agario]
@@ -24,3 +24,4 @@
 [flappy]: https://github.com/Godeta/FlappyBird-JS
 [agario]: https://github.com/Godeta/Agario_JS_multi
 [geneanet]: https://github.com/Godeta/Geneanet_toGedcom_webScraping
+[javaFirstAnimation]: https://github.com/Godeta/JavaFirstAnimation
