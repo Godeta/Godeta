@@ -6,7 +6,7 @@
 - Some AI : [flappyBird ][flappy]
 - Networking : [Online Multiplayer Agario ][agario]
 - Web scraping : [Geneanet Scraper project ][geneanet]
-- Databases : [Library using Mongodb with node js] [library] and [SQL queries with some php] [sql manip]
+- Databases : [Library using Mongodb with node js][library] and [SQL queries with some php][sql manip]
 
 ### Connect with me
 
