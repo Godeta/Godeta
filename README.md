@@ -6,6 +6,7 @@
 - Some AI : [flappyBird ][flappy]
 - Networking : [Online Multiplayer Agario ][agario]
 - Web scraping : [Geneanet Scraper project ][geneanet]
+- Databases : [Library using Mongodb with node js] [library] and [SQL queries with some php] [sql manip]
 
 ### Connect with me
 
@@ -25,3 +26,5 @@
 [agario]: https://github.com/Godeta/Agario_JS_multi
 [geneanet]: https://github.com/Godeta/Geneanet_toGedcom_webScraping
 [javaFirstAnimation]: https://github.com/Godeta/JavaFirstAnimation
+[library]: https://github.com/Godeta/Library_nodeJS-Express-MongoDB
+[sql manip]: https://github.com/Godeta/SQL_manipulation
