@@ -7,6 +7,7 @@
 - Networking : [Online Multiplayer Agario ][agario]
 - Web scraping : [Geneanet Scraper project ][geneanet]
 - Databases : [Library using Mongodb with node js][library] and [SQL queries with some php][sql manip]
+- My resumee : [Arnaud GODET resumee](https://godeta.github.io)
 
 ### Connect with me
 
