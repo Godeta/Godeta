@@ -6,7 +6,7 @@
 - Working with OOP using Java : [tic tac toe in command line][Gobblet-Gobblers] and [test animated game with swing][javaFirstAnimation] 
 - Web developpement, [front-end there][front] and [back-end here][back]
 - Some AI : [flappyBird ][flappy] [licence plate reader][plate]
-- Networking : [Online Multiplayer Agario ][agario]
+- Networking : [Online Multiplayer Agario ][agario] and [detection of image with camera on local network + send result on local network][https://github.com/Godeta/iot_camera_image_detection]
 - Web scraping : [Geneanet Scraper project ][geneanet]
 - Databases : [Library using Mongodb with node js][library] and [SQL queries with some php][sql manip]
 - My resumee : [Arnaud GODET resumee](https://godeta.github.io)
