@@ -1,7 +1,7 @@
 ### Hello and welcome to my profile ! I am Arnaud aka [Godeta][CV_website]
 
 ## I am an engineer
-- Robotics : [kuka control big 1 year project][torus] , [Arduino input to robot][esplora] , [Control of mobile robots][https://github.com/Godeta/mobile_robot_control] and [signal processing][sign] 
+- Robotics : [kuka control big 1 year project][torus] , [Arduino input to robot][esplora] , [Control of mobile robots][mob] and [signal processing][sign] 
 - Game dev : [godot][gdt] [Unity][uni]
 - Working with OOP using Java : [tic tac toe in command line][Gobblet-Gobblers] and [test animated game with swing][javaFirstAnimation] 
 - Web developpement, [front-end there][front] and [back-end here][back]
@@ -40,3 +40,4 @@
 [javaFirstAnimation]: https://github.com/Godeta/JavaFirstAnimation
 [library]: https://github.com/Godeta/Library_nodeJS-Express-MongoDB
 [sql manip]: https://github.com/Godeta/SQL_manipulation
+[mob]: https://github.com/Godeta/mobile_robot_control
